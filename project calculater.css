@@ -1,0 +1,24 @@
+#calc{
+  background-color: rgb(41, 39, 39);
+  border: 1px solid rgb(74, 72, 72);
+  border-radius: 5px;
+  width: 200px;
+}
+
+#display{
+  background-color: white;
+  margin: 10px ;
+  width: 85%;
+  font-size: 25px;
+}
+
+.button{
+  width: 45px;
+  height: 45px;
+  margin: 3px;
+}
+.button-cal{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
